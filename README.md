@@ -2,9 +2,12 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
+[中文文档](#中文文档) | [English Documentation](#english-documentation)
+
 ---
 
-## 🇨🇳 中文版
+<a name="中文文档"></a>
+# Cambricon MLU Kernel Labs (中文文档)
 
 `Cambricon-MLU-Kernel-Labs` 包含两个寒武纪 MLU (Machine Learning Unit) 编程实验项目：一个是基于 `MLUExtension` 构建的 PyTorch 自定义 Sigmoid 算子，另一个是基于 Bang C 的矩阵乘法 (MatMul) 渐进式优化实践。本项目代码全面覆盖了从上层深度学习框架的算子集成，到底层 AI 加速器的硬件级内核优化。
 
@@ -98,7 +101,8 @@ bash test.sh
 
 ---
 
-## 🇬🇧 英文文档
+<a name="english-documentation"></a>
+# Cambricon MLU Kernel Labs (English Documentation)
 
 `Cambricon-MLU-Kernel-Labs` contains two Cambricon MLU programming experiments: a PyTorch custom sigmoid operator built with `MLUExtension`, and a Bang C matrix-multiplication (MatMul) optimization sequence. The code covers both framework-level operator integration and lower-level accelerator kernel optimization.
 
@@ -189,4 +193,3 @@ bash test.sh
 ### 📄 License
 
 This project is open-sourced under the [MIT License](LICENSE).
-NSE).
