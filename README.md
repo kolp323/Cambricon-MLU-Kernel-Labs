@@ -98,7 +98,7 @@ bash test.sh
 
 ---
 
-## 🇬🇧 English Version
+## 🇬🇧 英文文档
 
 `Cambricon-MLU-Kernel-Labs` contains two Cambricon MLU programming experiments: a PyTorch custom sigmoid operator built with `MLUExtension`, and a Bang C matrix-multiplication (MatMul) optimization sequence. The code covers both framework-level operator integration and lower-level accelerator kernel optimization.
 
@@ -189,3 +189,4 @@ bash test.sh
 ### 📄 License
 
 This project is open-sourced under the [MIT License](LICENSE).
+NSE).
